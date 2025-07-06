@@ -1,0 +1,6 @@
+#screen {
+    height: 230px;
+    width: 400px;
+    background-color: green;
+    word-break: break-all;
+}

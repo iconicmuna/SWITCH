@@ -1,0 +1,33 @@
+#outer{
+    border: 1px solid black;
+    height: 30px;
+    width: 300px;
+    position: relative;
+  }
+  
+  #inner{
+    width: 0;
+    height: 30px;
+    background: green;
+    position: absolute;
+  }
+  
+  .wrapper{
+    display: flex;
+  }
+  
+  input[type=text]{
+    width: 300px;
+    height: 25px;
+  }
+  
+  h3{
+    margin-left: 8px;
+    line-height: 1px;
+  }
+  
+  h4{
+    line-height: 1px;
+    margin-left: 8px;
+    color: green;
+  }
